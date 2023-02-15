@@ -25,6 +25,7 @@ const AboutUs = props => {
        {aboutus.map(about => (
         aboutus.text
       ))}
+      {/* {aboutus.text} */}
        </>
     )
 }
