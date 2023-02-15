@@ -21,10 +21,10 @@ const AboutUs = props => {
 
     return (
        <>
-       {/* {JSON.stringify(aboutus.text)} */}
-       {aboutus.map(about => (
+       {JSON.stringify(aboutus.text)}
+       {/* {aboutus.map(about => (
         aboutus.text
-      ))}
+      ))} */}
       {/* {aboutus.text} */}
        </>
     )
